@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Clockify-API
-This project allows you to receive, process, and audit webhooks sent by Clockify. It automates the management of user time sessions, records change logs, validates data, and notifies relevant events by email. 
-=======
+
 # Clockify Webhook API – ActionTracker
 
 Este proyecto permite recibir, procesar y auditar webhooks enviados por Clockify. Automatiza la gestión de sesiones de tiempo de usuarios, registra bitácoras de cambios, valida datos y notifica por correo los eventos relevantes (como inicios, cierres, ediciones y eliminaciones de sesiones).
