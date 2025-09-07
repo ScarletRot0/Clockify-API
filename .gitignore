@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.vscode/
+.idea/
+.dockerignore
+.env
+.venv/

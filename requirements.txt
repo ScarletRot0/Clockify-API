@@ -1,0 +1,15 @@
+Flask
+Flask-Mail
+python-dotenv
+pydantic
+sqlalchemy
+datetime
+python-dateutil
+isodate
+Flask-SQLAlchemy
+gunicorn
+psycopg2-binary
+pytz
+pandas
+openpyxl
+werkzeug
